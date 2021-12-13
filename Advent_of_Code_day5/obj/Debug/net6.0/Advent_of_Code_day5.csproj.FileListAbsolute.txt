@@ -1,0 +1,15 @@
+/Users/T452172/Downloads/Advent_of_Code_day5/obj/Debug/net6.0/Advent_of_Code_day5.csproj.AssemblyReference.cache
+/Users/T452172/Downloads/Advent_of_Code_day5/obj/Debug/net6.0/Advent_of_Code_day5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/T452172/Downloads/Advent_of_Code_day5/obj/Debug/net6.0/Advent_of_Code_day5.AssemblyInfoInputs.cache
+/Users/T452172/Downloads/Advent_of_Code_day5/obj/Debug/net6.0/Advent_of_Code_day5.AssemblyInfo.cs
+/Users/T452172/Downloads/Advent_of_Code_day5/obj/Debug/net6.0/Advent_of_Code_day5.csproj.CoreCompileInputs.cache
+/Users/T452172/Downloads/Advent_of_Code_day5/bin/Debug/net6.0/Advent_of_Code_day5
+/Users/T452172/Downloads/Advent_of_Code_day5/bin/Debug/net6.0/Advent_of_Code_day5.deps.json
+/Users/T452172/Downloads/Advent_of_Code_day5/bin/Debug/net6.0/Advent_of_Code_day5.runtimeconfig.json
+/Users/T452172/Downloads/Advent_of_Code_day5/bin/Debug/net6.0/Advent_of_Code_day5.dll
+/Users/T452172/Downloads/Advent_of_Code_day5/bin/Debug/net6.0/ref/Advent_of_Code_day5.dll
+/Users/T452172/Downloads/Advent_of_Code_day5/bin/Debug/net6.0/Advent_of_Code_day5.pdb
+/Users/T452172/Downloads/Advent_of_Code_day5/obj/Debug/net6.0/Advent_of_Code_day5.dll
+/Users/T452172/Downloads/Advent_of_Code_day5/obj/Debug/net6.0/ref/Advent_of_Code_day5.dll
+/Users/T452172/Downloads/Advent_of_Code_day5/obj/Debug/net6.0/Advent_of_Code_day5.pdb
+/Users/T452172/Downloads/Advent_of_Code_day5/obj/Debug/net6.0/Advent_of_Code_day5.genruntimeconfig.cache
